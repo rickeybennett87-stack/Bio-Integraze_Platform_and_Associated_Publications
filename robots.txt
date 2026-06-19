@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rickeybennett87-stack.github.io/Bio-Integrase_Platform_and_Associated_Publications/sitemap.xml
